@@ -24,7 +24,6 @@ function App() {
       >
         <Room style={{fontSize:visualViewport.zoom}}/>
       <div>Here!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div>
-      {/* <img src="./public/images/pin.png" alt="" /> */}
       </Marker>
       </Map>
     </div>
