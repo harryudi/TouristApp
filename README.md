@@ -1,3 +1,6 @@
+
+<img width="302" alt="tourist" src="https://github.com/harryudi/TouristApp/assets/111028346/c1363da2-c251-4b8d-aefa-cc11222061c9">
+
 # Travel App Pin
 
 Welcome to the Travel App Pin repository! This project is an ongoing travel application that allows users to pin locations on a map.
